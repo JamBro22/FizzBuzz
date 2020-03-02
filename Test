@@ -1,0 +1,7 @@
+print("Testing..")
+a = 4
+b = 7
+c_squared = a**2 + b**2
+
+c = c_squared**(1/2)
+print(c)
